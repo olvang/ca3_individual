@@ -18,4 +18,4 @@ https://travis-ci.com/account/repositories --> Mange repositories on github
 
 <p>Rename the value in the <remote.server> tag to [Your server ip]/manager/text on line 19 </p>
 
-<p>Change the value on line 24 in persistence.xml to match the local database on your machine</p>
+<p>Change the value on line 24 in persistence.xml to match the local database on your machine</p>1
