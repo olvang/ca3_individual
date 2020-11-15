@@ -8,11 +8,11 @@ Brugere:
 <p>user:test123</p>
 <p>admin:test123</p>
 
-<p>Backend github: [https://github.com/olvang/ca3_individual](https://github.com/olvang/ca3_individual)</p>
-<p>Frontend github: [https://github.com/olvang/ca3_frontend_individual](https://github.com/olvang/ca3_frontend_individual)</p>
-<p>Backend deployed: [https://vangomango.dk/CA3/](https://vangomango.dk/CA3/)</p>
-<p>Frontend deployed: [http://vangca3.surge.sh/](http://vangca3.surge.sh/)</p>
-<p>Travis: [https://travis-ci.com/olvang/ca3_individual](https://travis-ci.com/olvang/ca3_individual)</p>
+<p>Backend github: https://github.com/olvang/ca3_individual</p>
+<p>Frontend github: https://github.com/olvang/ca3_frontend_individual</p>
+<p>Backend deployed: https://vangomango.dk/CA3/</p>
+<p>Frontend deployed: https://vangca3.surge.sh/</p>
+<p>Travis: https://travis-ci.com/olvang/ca3_individual</p>
 
 _____________________
 <p>All of this expects you have a local user for your MySql databse called dev with ax2 as password</p>
